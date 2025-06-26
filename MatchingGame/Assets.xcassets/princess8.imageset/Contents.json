@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250523_2155_Elegant Princess Gradient_simple_compose_01jw06svb9ek1vzaj4fn0s7ggw.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
